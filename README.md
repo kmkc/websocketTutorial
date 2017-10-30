@@ -19,6 +19,6 @@ Start demo
 ---
 
 0.  Start server: `python server.py`
-0.  Web access to `hogehoge.xyz:3000` with web browser
+0.  Web access to `hogehoge.xyz:3000`
 0.  Run `python client.py`
 
